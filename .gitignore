@@ -1,0 +1,11 @@
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Release signing (never publish)
+keystore.properties
+*.jks
+*.keystore
+.kotlin/

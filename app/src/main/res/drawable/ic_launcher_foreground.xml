@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Stream waves -->
+    <path
+        android:pathData="M48.34,34.34 A8,8 0 0 1 59.66,34.34"
+        android:strokeColor="#50E4B0"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M44.1,30.1 A14,14 0 0 1 63.9,30.1"
+        android:strokeColor="#50E4B0"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+    <!-- Left controller -->
+    <path
+        android:fillColor="#12B5E8"
+        android:pathData="M32,42 L27,42 A5,5 0 0 0 22,47 L22,67 A5,5 0 0 0 27,72 L32,72 Z" />
+    <!-- Right controller -->
+    <path
+        android:fillColor="#FF4B3A"
+        android:pathData="M76,42 L81,42 A5,5 0 0 1 86,47 L86,67 A5,5 0 0 1 81,72 L76,72 Z" />
+    <!-- Console body and screen -->
+    <path
+        android:fillColor="#2B3142"
+        android:pathData="M32,42h44v30h-44z" />
+    <path
+        android:fillColor="#070B16"
+        android:pathData="M35,45h38v24h-38z" />
+    <!-- Sticks -->
+    <path
+        android:fillColor="#0B3F52"
+        android:pathData="M27,51m-2.4,0a2.4,2.4 0 1,0 4.8,0a2.4,2.4 0 1,0 -4.8,0" />
+    <path
+        android:fillColor="#5A1A14"
+        android:pathData="M81,63m-2.4,0a2.4,2.4 0 1,0 4.8,0a2.4,2.4 0 1,0 -4.8,0" />
+    <!-- Play mark on screen -->
+    <path
+        android:fillColor="#50E4B0"
+        android:pathData="M50,50 L50,64 L61,57 Z" />
+</vector>
